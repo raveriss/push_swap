@@ -23,7 +23,7 @@ Ce projet a pour but de trier des données sur une pile, en utilisant un ensembl
 ## Installation et Compilation
 
 ```bash
-git clone git@github.com:votreusername/push_swap.git
+git clone git@github.com:raveriss/push_swap.git
 cd push_swap
 make
 ```
