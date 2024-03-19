@@ -1,7 +1,7 @@
 # Projet push_swap
 
 <div align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png?raw=true" alt="Badge du projet push_swap">
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swape.png?raw=true" alt="Badge du projet push_swap">
 </div>
 
 ## Description
