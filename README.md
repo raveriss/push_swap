@@ -40,8 +40,8 @@ Gestion d'erreurs et validation des entrées pour une robustesse maximale.
 Aucune fuite de mémoire, conformément aux standards de l'école 42.
 
 ## Fonctions externes autorisées
-malloc
-free
-read
-write
-exit
+- malloc
+- free
+- read
+- write
+- exit
